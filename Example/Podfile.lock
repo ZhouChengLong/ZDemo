@@ -1,0 +1,16 @@
+PODS:
+  - ZDemo (0.1.0)
+
+DEPENDENCIES:
+  - ZDemo (from `../`)
+
+EXTERNAL SOURCES:
+  ZDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZDemo: a01889edab25c79c96c4f20d889c0054c2804371
+
+PODFILE CHECKSUM: 5835c74bf3354991bb88beb429cb7731489ddec3
+
+COCOAPODS: 1.8.4

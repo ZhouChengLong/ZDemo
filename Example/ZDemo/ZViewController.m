@@ -7,6 +7,7 @@
 //
 
 #import "ZViewController.h"
+#import <ZDemo.h>
 
 @interface ZViewController ()
 
@@ -18,6 +19,11 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    ZDemo *z = [[ZDemo alloc] init];
+    z.name = @"zak";
+    NSLog(@"z:%@", z);
+    
 }
 
 - (void)didReceiveMemoryWarning

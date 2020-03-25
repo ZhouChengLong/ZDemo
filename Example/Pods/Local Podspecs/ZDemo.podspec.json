@@ -1,0 +1,22 @@
+{
+  "name": "ZDemo",
+  "version": "0.1.0",
+  "summary": "A short description of ZDemo.",
+  "description": "学习制作pod库",
+  "homepage": "https://github.com/zhouchenglong",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhouchenglong": "253136335@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/zhouchenglong/ZDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZDemo/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module ZDemo {
+  umbrella header "ZDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
